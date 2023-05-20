@@ -144,4 +144,4 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Keys and prod settings
-OPENAI_KEY=""
+OPENAI_KEY="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"
